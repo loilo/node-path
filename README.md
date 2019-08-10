@@ -3,7 +3,7 @@
 [![Test status on AppVeyor](https://badgen.net/appveyor/ci/loilo/node-path?label=Windows&icon=appveyor)](https://ci.appveyor.com/project/loilo/node-path)
 [![Version on packagist.org](https://badgen.net/packagist/v/loilo/node-path)](https://packagist.org/packages/loilo/node-path)
 
-This package is a port of Node.js' [`path`](https://nodejs.org/docs/latest-v12.x/api/Path::html#path_path) module to PHP.
+This package is a port of Node.js' [`path`](https://nodejs.org/docs/latest-v12.x/api/path.html#path_path) module to PHP.
 
 Ported code and docs were created from Node.js v12.8.0.
 
