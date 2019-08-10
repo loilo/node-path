@@ -2,6 +2,7 @@
     "name": "loilo/node-path",
     "description": "The Node.js `path` module, ported to PHP",
     "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
