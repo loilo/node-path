@@ -135,7 +135,7 @@ Returns the extension of the `$path`, from the last occurrence of the `.` (perio
 #### `format ( Loilo\NodePath\PathObjectInterface|array $pathData ) : string`
 Returns a path string from an associative array or a PathObjectInterface instance. This is the opposite of [`parse()`](#parse--string-path---loilonodepathpathobjectinterface).
 
-When providing properties to the $pathData remember that there are combinations where one property has priority over another:
+When providing properties to the `$pathData` remember that there are combinations where one property has priority over another:
 
 - `$pathData['root']` is ignored if `$pathData['dir']` is provided.
 - `$pathData['ext']` and `$pathData['name']` are ignored if `$pathData['base']` exists.
