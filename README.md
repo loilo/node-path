@@ -1,6 +1,5 @@
 # Node.js `path` Module
-[![Test status on Travis](https://badgen.net/travis/loilo/node-path?label=Linux&icon=travis)](https://travis-ci.org/loilo/node-path)
-[![Test status on AppVeyor](https://badgen.net/appveyor/ci/loilo/node-path?label=Windows&icon=appveyor)](https://ci.appveyor.com/project/loilo/node-path)
+[![Tests](https://badgen.net/github/checks/loilo/node-path/master)](https://github.com/loilo/node-path/actions)
 [![Version on packagist.org](https://badgen.net/packagist/v/loilo/node-path)](https://packagist.org/packages/loilo/node-path)
 
 This package is a port of Node.js' [`path`](https://nodejs.org/docs/latest-v12.x/api/path.html#path_path) module to PHP.
