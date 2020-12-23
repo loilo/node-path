@@ -7,7 +7,7 @@ trait DetectWindowsTrait
 {
     protected static $isWindows;
 
-    public static function setUpBeforeClass()
+    public static function setUpBeforeClass(): void
     {
         static::$isWindows = DIRECTORY_SEPARATOR === '\\';
     }
